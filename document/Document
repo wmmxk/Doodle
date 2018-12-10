@@ -1,0 +1,11 @@
+How to run:
+
+
+1. activate the pytorch4 environment and
+
+2. choose which setting to use in the config.py file when running the project.
+
+3. run the main.py in pycharm.
+
+
+
